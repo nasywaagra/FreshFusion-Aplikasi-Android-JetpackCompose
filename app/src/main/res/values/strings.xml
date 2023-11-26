@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fresh Fusion</string>
+    <string name="home">Beranda</string>
+    <string name="favorite">Favorit</string>
+    <string name="profile">Tentang Saya</string>
+    <string name="found_fusion">Cari fusion...</string>
+    <string name="back">Kembali</string>
+    <string name="error">Terjadi Kesalahan</string>
+    <string name="desc">Deskripsi</string>
+    <string name="materials">Bahan-bahan</string>
+    <string name="steps">Langkah-Langkah</string>
+    <string name="error_home">Fusion tidak ditemukan</string>
+    <string name="error_saved">Tidak ada item favorit</string>
+    <string name="fav_fusion">Minuman Favorit</string>
+    <string name="name">Nasywa Agra Nisrina</string>
+    <string name="email">a296bsx2067@bangkit.academy</string>
+</resources>
